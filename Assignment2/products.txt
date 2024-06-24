@@ -1,0 +1,10 @@
+111 Milk 2litre 3.50
+112 Breed 500g 2.50
+113 Blueberry 1BB 30
+114 Cranberry 1CB 20
+115 Carrot 1ca  24
+116 Cleaning Tool Set CTS 40
+117 WaterMelon WM  10
+118 Grape Gpe 10
+119 Apple 1 10
+120 Sausage 1K 10
