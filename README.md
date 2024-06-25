@@ -10,4 +10,4 @@ This Supermarket system developed by Python allows to users streamlining the sho
 
 The Supermarket Self-Service_Checkout made up of multiple parts.
 
-![image description](![uml1](https://github.com/ChungmanPARK12/Test2/assets/162090754/74ebdadb-a7a2-41db-8edb-564b5f8b2e32))
+![image description](https://github.com/ChungmanPARK12/Test2/assets/162090754/74ebdadb-a7a2-41db-8edb-564b5f8b2e32)
