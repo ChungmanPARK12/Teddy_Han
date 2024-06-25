@@ -19,3 +19,11 @@ This Class initializes a `Supermarket` class, manages product scanning, processe
 * ### Product Class
 
 Defines a `Product` class with attributes for barcode, name, description, and price. Includes methods for printing details and comparing products by barcode.
+
+* ### Transactions Class
+
+Defines a `Transactions` class with attributes for date, barcode, and amount. Includes methods to retrieve the transaction date, barcode, and amount.
+
+* ### CheckoutRegister Class
+
+Defines a `CheckoutRegister` class to manage product scanning, payment processing, and transaction saving. Integrates with `SupermarketDAO` for database operations and handles shopping cart functionality.
